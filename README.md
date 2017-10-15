@@ -1,6 +1,5 @@
-![Sam Car Services](http://samcarservices.com/img/logo.png)
-### Website for [Sam Car Services](http://www.samcarservices.com)
+### [Sam Car Services](http://www.samcarservices.com)'s Website
 -------------
-Developed and maintained by [MRW Creations](https://www.mrwcreations.org)
+Designed, Developed and maintained by [MRW Creations](https://www.mrwcreations.org)
 
-
+&copy; 2016-2017 [MRW Creations](https://www.mrwcreations.org)
